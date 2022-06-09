@@ -1,0 +1,21 @@
+{
+  "name": "task-2-file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kulgeyko93/node-nodejs-file-manager.git"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kulgeyko93/node-nodejs-file-manager/issues"
+  },
+  "homepage": "https://github.com/Kulgeyko93/node-nodejs-file-manager#readme"
+}
