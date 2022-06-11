@@ -8,5 +8,9 @@ export const COMMANDS = {
   CP: 'cp',
   MV: 'mv',
   HASH: 'hash',
-  OS: 'os',
+  OS_EOL: 'os --EOL',
+  OS_CPUS: 'os --cpus',
+  OS_HOMEDIR: 'os --homedir',
+  OS_username: 'os --username',
+  OS_ARCH: 'os --architecture',
 }

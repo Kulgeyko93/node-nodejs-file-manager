@@ -52,6 +52,6 @@ const checkFileOrDir = async (path) => {
     const isExist = await fs.stat(path);
     return isExist.isFile() ? false : true;
   } catch (error) {
-    return false
+    return false;
   }
 }
